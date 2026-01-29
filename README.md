@@ -13,3 +13,16 @@ A collection of my programming paradigms course assignments.
 
 > ***Relevant course***
 > * Programing Paradigms 2025 (2025 年同济大学程序设计范式)
+
+## 仓库组成
+
+* [Assignment 1](assignment_1)
+
+* [Assignment 2](assignment_2)
+
+* [Assignment 3](assignment_3)
+  
+* [Assignment 4](assignment_4)
+
+* [Gomoku](gomoku)
+五子棋 AI 对战程序
